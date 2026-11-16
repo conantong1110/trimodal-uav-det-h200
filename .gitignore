@@ -1,0 +1,13 @@
+# Dataset, checkpoints and run outputs (large, never commit)
+data/
+checkpoints/
+logs/
+test_results/
+*.pth
+*.pth.tmp
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
